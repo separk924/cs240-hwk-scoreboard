@@ -1,5 +1,17 @@
+td.score {
+  font-size: 12pt;
+  border: solid black;
+  text-align: center;
+  height: 30px;
+  width: 20px;
+}
 * {
   font-family: "arial";
+}
+.control {
+  background-color: black;
+  color: white;
+  padding: 20px;
 }
 table {
   background-color: rgb(50, 100, 85);
