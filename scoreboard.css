@@ -1,1 +1,11 @@
-/* Your CSS definitions here */
+* {
+  font-family: "arial";
+}
+table {
+  background-color: rgb(50, 100, 85);
+  color: white;
+  padding: 1px;
+}
+img {
+  height: 120px;
+}
